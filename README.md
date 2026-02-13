@@ -1,10 +1,11 @@
 # Data_Science_Intern_project
 Sentiment-Based Trader Performance Analysis
-** Objective**
+
+**Objective**
 
 Analyze how trader behavior and performance change across Fear vs Greed market regimes.
 
-** Methodology**
+**Methodology**
 
 Cleaned trade and sentiment datasets
 
@@ -16,7 +17,7 @@ Performed segmentation analysis
 
 Compared performance across sentiment regimes
 
-** Key Insights**
+**Key Insights**
 
 Fear regimes amplify leverage risk.
 
@@ -24,7 +25,7 @@ Greed regimes increase trading activity.
 
 Consistent traders adapt better across regimes.
 
-** Strategy Recommendations**
+**Strategy Recommendations**
 
 Reduce leverage during Fear periods.
 
